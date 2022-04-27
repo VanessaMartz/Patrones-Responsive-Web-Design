@@ -1,2 +1,2 @@
-# Patrones-de-disenio
-Ejemplos para practicar patrones de disenio
+# Patrones Responsive Web Design
+Ejemplos para practicar patrones web design
